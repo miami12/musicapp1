@@ -56,7 +56,7 @@ class _HomePageState extends State<HomePage> {
                     child: Row(
                       children: [
                         Text(
-                          "Welcome Mohammed",
+                          "Welcome Mohammed Burahaba",
                           style: TextStyle(
                               fontWeight: FontWeight.bold, fontSize: 25.0),
                         ),
